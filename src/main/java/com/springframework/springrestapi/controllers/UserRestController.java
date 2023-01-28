@@ -11,8 +11,8 @@ import java.awt.print.Pageable;
 import java.util.List;
 import java.util.Optional;
 
-@RestController
-@RequestMapping(value = "/users")
+//@RestController
+//@RequestMapping(value = "/users")
 public class UserRestController {
 
     private final UserService userService;
